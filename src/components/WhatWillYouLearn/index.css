@@ -1,0 +1,47 @@
+.learn-cards{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.learn-card{
+    background-color: #e9eef5;
+    padding: 0px;
+    width: 350px;
+    border-radius: 10px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 10px 10px 10px 5px #00000075;
+}
+.learn-heading{
+    color: white;
+    background-color: #3b0187;
+    margin-top: -5px;
+    font-size: 20px;
+    padding: 20px 20px;
+    text-align: center;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.list{
+    color: black;
+    font-size: 16px;
+    font-family: roboto;
+    justify-self: flex-start;
+}
+.footer{
+    background-color: #3b0187;
+    color: white;
+    margin-bottom: -5px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.list-heading{
+    font-size: 20px;
+    text-align: left;
+    padding: 0px 10px;
+}

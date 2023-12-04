@@ -1,0 +1,64 @@
+.banner-container{
+    background-color: #e9eef5;
+    padding: 0;
+    margin-top: -20px;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.content{
+    max-width: 60%;
+}
+.banner-heading{
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+.banner-para{
+    color: #453c3b;
+    font-size: 18px;
+    font-family: roboto;
+}
+.cards{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.card-container{
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 3px 2px 5px 1px #c5c5c5;
+    background-color: white;
+    padding: 0px 10px;
+    text-align: center;
+    font-weight: bold;
+}
+.card-name{
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.btn-1{
+    color: white;
+    background-color: #31047a;
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 10px;
+}
+.btn-2{
+    color: white;
+    background-color: #c70808;
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+}
+.btn-container{
+    display: flex;
+    gap: 50px;
+    margin-top: 30px;
+}
